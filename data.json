@@ -1,0 +1,32 @@
+{
+    "1": {
+        "id": "674abf76de1d3",
+        "nama": "Gundam HGUC ZETA ",
+        "harga": "340.000",
+        "stok": "1"
+    },
+    "2": {
+        "id": "674ade844faa3",
+        "nama": "HGCE Infinite Justice Type II",
+        "harga": "386.000",
+        "stok": "2"
+    },
+    "3": {
+        "id": "674adf7ed95ed",
+        "nama": "HGCE Freedom",
+        "harga": "286.000",
+        "stok": "7"
+    },
+    "4": {
+        "id": "674ae056ef840",
+        "nama": "Gundam MG RX-78-2 ver 3.0.",
+        "harga": "799.000",
+        "stok": "3"
+    },
+    "5": {
+        "id": "674aee9dcf755",
+        "nama": "Iron-Blooded Orphans - Gundam Barbatos MG.",
+        "harga": "900.000",
+        "stok": "7"
+    }
+}
